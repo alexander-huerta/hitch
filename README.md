@@ -1,4 +1,11 @@
-ADD HEADER IMAGE
+## Full Stack Web Application that I helped build, along side 4 other engineers. We used the agile methodology organized with a Trello ticketing system.
+
+## Some other technologies used include React, Material UI, Firebase, Firestore. 
+
+## I was responsible for designing the backend system. I chose Firebase for user authentication and image hosting, and Cloud Firestore as the database solution. Google's CDN helped power our real time chat feature, which was a major stakeholder requirement. I also implemented an API to serve 15 endpoints. 
+
+
+
 
 # Hitch
 ### Table of Contents
